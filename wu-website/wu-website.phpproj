@@ -658,6 +658,7 @@
     <Folder Include="wordpress-trunk\wp-includes\theme-compat\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="bootstrap\css\bootstrap-theme.css" />
     <Content Include="bootstrap\css\bootstrap-theme.css.map" />
     <Content Include="bootstrap\css\bootstrap-theme.min.css" />
