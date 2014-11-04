@@ -1,0 +1,190 @@
+﻿.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.about-me {
+  background-color: red;
+}
+
+/*body {
+
+    padding-top: 50px;
+
+    padding-bottom: 20px;
+
+    margin: 0;
+
+    display: block;
+
+}*/
+
+
+/*Start of other CSS*/
+
+#intro header .logo h1 {
+display: block;
+margin: auto;
+padding: 0;
+}
+
+#intro header {
+
+    zoom: 1;
+    z-index: 5;
+    margin-left: 40px;
+    margin-top: 100px;
+
+}
+
+div{
+
+    display: block;
+
+}
+
+body {
+
+    background: #262324;
+
+    font-weight: 400;
+
+    font-size: 11px;
+
+    color: white;
+
+    line-height: 20px;
+
+}
+
+p, h6 {
+    margin: 5px 0 15px;
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+
+    font: inherit;
+}
+
+h4 {
+font-family: "brandon-grotesque","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 700;
+font-size: 11px;
+line-height: 1;
+color: #fcfcfc;
+text-transform: uppercase;
+letter-spacing: 5px;
+padding: 5px 0 10px;
+margin: 25px 10px 10px 0;
+border-bottom: 1px solid #fcfcfc;
+}
+
+h1 {
+font-family: "brandon-grotesque","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 700;
+font-size: 47px;
+line-height: 1;
+color: #fcfcfc;
+text-transform: uppercase;
+letter-spacing: 12px;
+margin: 0;
+padding: 0 0 10px 30px;
+}
+
+h2 {
+font-family: "brandon-grotesque","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 700;
+font-size: 13px;
+line-height: 1;
+color: #fcfcfc;
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+
+.logo {
+
+    top:0;
+
+}
+
+#logo {
+
+    text-align: center;
+
+}
+
+#indexTest{
+
+    top: 50%;
+
+}
+
+.pull-me {
+	display:block;
+    right:-25px;
+    width:150px;
+    height:20px;
+	font-family:arial,sans-serif;
+    font-size:14px;
+	color:#ffffff;
+    background:#cc0000;
+	text-decoration:none;
+    -moz-border-bottom-left-radius:5px;
+    -moz-border-bottom-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+}
+
+#resume-btn{
+
+    background: transparent;
+
+    border: none;
+
+    font-size: inherit;
+
+    font-family: "brandon-grotesque","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+    font-weight: 700;
+
+    font-size: 11px;
+
+    line-height: 1;
+
+    color: #fcfcfc;
+
+    text-transform: uppercase;
+
+    letter-spacing: 5px;
+
+    padding: 5px 0 10px;
+
+    margin: 25px 10px 10px 0;
+
+    border-bottom: 1px solid #fcfcfc;
+
+    width: 100%;
+
+    text-align: left;
+
+    }
+
+#modal-body{
+
+    color: black;
+
+}
+
+#myModalLabel{
+
+    color: black;
+
+}

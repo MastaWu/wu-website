@@ -671,7 +671,9 @@
     <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="bootstrap\js\bootstrap.js" />
     <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="index.css" />
     <Content Include="jQuery\jquery-2.1.1.min.js" />
+    <Content Include="script.js" />
     <Content Include="wordpress-trunk\license.txt" />
     <Content Include="wordpress-trunk\readme.html" />
     <Content Include="wordpress-trunk\wp-admin\css\about-rtl.css" />
