@@ -68,17 +68,51 @@ include ("header.php");
                                       
                                             <div class="modal-body" id="modal-body">
 
-                                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse scelerisque dolor a pulvinar congue. Phasellus vitae pulvinar ante, sit amet iaculis nunc. Praesent eget ullamcorper lorem. Pellentesque semper nisi sit amet orci aliquam, id interdum nisi egestas. Vivamus eu tellus molestie, gravida lacus non, rutrum dolor. Ut ut erat justo. Sed et diam nec erat consequat molestie. Integer eleifend, dui sit amet congue congue, magna mauris cursus justo, eget egestas sapien massa a justo.
+                                                   <h3 class="resume-objective-h3">Objective</h3>
+                                                   Seeking a challenging and rewarding opportunity with a company that shares my long-term goals, beliefs, and passion for technology.
+                                                   
+                                                   <br />
+                                                   <br />
 
-Sed auctor a urna eu suscipit. Phasellus tempor, tortor eu ornare malesuada, felis augue cursus erat, aliquet ornare tellus massa ac lorem. Vivamus in egestas est. Donec non lectus ut tellus ultrices venenatis in vitae tortor. Fusce in dolor pharetra dolor faucibus facilisis ut vel sem. Aliquam sagittis lacus id nisl molestie euismod. Ut eu dictum felis. Nam varius eget nisl vel interdum. Maecenas vulputate, erat sed accumsan feugiat, erat nunc sagittis lectus, sit amet faucibus nisl arcu quis turpis. Suspendisse rutrum vehicula dignissim. Vivamus aliquam tortor a accumsan condimentum. Nullam euismod consequat leo non mattis.
+                                                   <h3 class="resume-skills-h3">Skills and Abilities<</h3>
+                                                       <b>Programming Languages:</b>
+                                                        <ul>
+                                                            <li>Java</li>
+                                                            <li>PHP</li>
+                                                            <li>MySql</li>
+                                                            <li>Sql</li>
+                                                            <li>HTML</li>
+                                                            <li>CSS</li>
+                                                            <li>Javascript</li>
+                                                            <li>Swift</li>
+                                                        </ul>
+                                                       <b>Software Experience:</b>
+                                                        <ul>
+                                                            <li>Visual Studios</li>
+                                                            <li>Eclipse</li>
+                                                            <li>Git</li>
+                                                            <li>WinSCP</li>
+                                                            <li>dbForge Apache</li>
+                                                            <li>MySql</li>
+                                                            <li>Oracle VM</li>
+                                                            <li>Dreamweaver</li>
+                                                            <li>Microsoft Office (Word, Excel, Access, SharePoint, Outlook)</li>
+                                                            <li>Microsoft Windows Operating System</li>
+                                                            <li>Linux Fedora</li>
+                                                            <li>Mac OS</li>
+                                                        </ul>
+                                                       <b>Professional Abilities:</b>
+                                                       <ul>
+                                                           <li>Design computer-based systems, processes, components, and programs</li>
+                                                           <li>Explain high-level technical concepts to end users</li>
+                                                           <li>Teamwork and project management: work efficiently and effectively in a team and as a leader to design and implement systems, optimize resources, and manage/resolve conflicts</li>
+                                                           <li>Effective Interface and Database Design</li>
+                                                           <li>Enterprise level team management and understand IT ethical integrity</li>
+                                                           <li>Assessing user requirements and resource planning</li>
+                                                           <li>Analyze, implement, and understand advanced algorithms</li>
 
-Proin facilisis erat eu pharetra dapibus. Sed faucibus accumsan lacinia. Donec pretium ipsum mollis dui interdum, ut sodales purus convallis. Fusce sed justo metus. Quisque pellentesque tincidunt bibendum. Morbi non luctus tortor. Suspendisse sit amet risus ac nisl porttitor vulputate sit amet nec diam. Suspendisse non lectus ante.
-
-Nullam dictum tellus id pellentesque lobortis. Etiam eget sapien ac neque scelerisque aliquam. Suspendisse vestibulum porttitor enim nec adipiscing. Nam a lorem eget lacus consequat aliquet pulvinar convallis enim. Phasellus consequat pellentesque pharetra. Suspendisse consectetur, mauris sed facilisis malesuada, justo felis laoreet enim, quis ornare lectus velit et justo. Nulla a erat vitae dolor molestie tempor eget vel massa. In dictum eleifend dolor eu interdum. Nullam vel ullamcorper leo, nec vulputate turpis. Aliquam eget nunc non dui molestie bibendum at a urna. Mauris eu odio egestas turpis malesuada gravida.
-
-Nunc commodo nulla ac malesuada aliquet. Vivamus at libero porttitor, semper velit ullamcorper, varius massa. Sed augue sapien, tristique at commodo vel, scelerisque vitae dui. Aenean dignissim neque id diam ullamcorper porta. Curabitur mattis est arcu, sit amet pellentesque velit tristique dignissim. Nunc a lacinia eros. Curabitur at nisi sit amet sem rutrum sodales at at dui. Proin congue mollis egestas. Phasellus dignissim risus sit amet massa vehicula, non vestibulum magna dictum. Donec non ante vitae mi posuere ullamcorper. Praesent ultricies diam vel tellus hendrerit, at laoreet diam vestibulum.
-                                      
-                                            </div>
+                                                       </ul>
+                                                </div>
                                       
                                             <div class="modal-footer">
                                         
@@ -94,7 +128,7 @@ Nunc commodo nulla ac malesuada aliquet. Vivamus at libero porttitor, semper vel
                               
                               <div>
 
-                                  <h6>Click above to see resume</h6>
+                                  <h6>Click to see resume</h6>
 
                               </div>
                           
