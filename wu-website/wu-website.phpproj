@@ -20,6 +20,7 @@
     <Compile Include="header.php" />
     <Compile Include="index.php" />
     <Compile Include="index2.php" />
+    <Compile Include="music.php" />
     <Compile Include="test.php" />
     <Compile Include="test2.php" />
     <Compile Include="wordpress-trunk\index.php" />

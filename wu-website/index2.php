@@ -144,6 +144,8 @@ include ("header.php");
 
             <p>Email: <a href="mailto:wu.stephend+sdw@gmail.com">wu.stephend@gmail.com</a></p>
 
+            <p>Music Alarm: <a href="music.php">click here</a></p>
+
             </div>
 
           </div>
