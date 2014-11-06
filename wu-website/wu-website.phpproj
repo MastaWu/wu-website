@@ -23,6 +23,7 @@
     <Compile Include="music.php" />
     <Compile Include="test.php" />
     <Compile Include="test2.php" />
+    <Compile Include="upload.php" />
     <Compile Include="wordpress-trunk\index.php" />
     <Compile Include="wordpress-trunk\wp-activate.php" />
     <Compile Include="wordpress-trunk\wp-admin\about.php" />

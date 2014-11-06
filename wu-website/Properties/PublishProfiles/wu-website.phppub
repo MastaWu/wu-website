@@ -3,7 +3,7 @@
   <PropertyGroup>
     <DeleteExistingFiles>False</DeleteExistingFiles>
     <SkipRemoteFilesCheck>True</SkipRemoteFilesCheck>
-    <publishUrl>C:\wamp\www\sdw</publishUrl>
+    <publishUrl>C:\wamp\www\wu-website</publishUrl>
     <WebPublishMethod>FileSystem</WebPublishMethod>
   </PropertyGroup>
 </Project>
