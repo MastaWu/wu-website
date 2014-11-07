@@ -16,11 +16,14 @@
     <IncludeDebugInformation>false</IncludeDebugInformation>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="addMusic.php" />
     <Compile Include="footer.php" />
+    <Compile Include="getMusic.php" />
     <Compile Include="header.php" />
     <Compile Include="index.php" />
     <Compile Include="index2.php" />
     <Compile Include="music.php" />
+    <Compile Include="mysqli_connect.php" />
     <Compile Include="test.php" />
     <Compile Include="test2.php" />
     <Compile Include="upload.php" />
@@ -537,6 +540,7 @@
     <Folder Include="bootstrap\fonts\" />
     <Folder Include="bootstrap\js\" />
     <Folder Include="jQuery\" />
+    <Folder Include="uploadedMusic\" />
     <Folder Include="wordpress-trunk\" />
     <Folder Include="wordpress-trunk\wp-admin\" />
     <Folder Include="wordpress-trunk\wp-admin\css\" />
