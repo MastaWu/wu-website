@@ -54,6 +54,8 @@
     <Content Include="bootstrap\js\bootstrap.min.js" />
     <Content Include="index.css" />
     <Content Include="jQuery\jquery-2.1.1.min.js" />
+    <Content Include="music.css" />
+    <Content Include="musicScript.js" />
     <Content Include="script.js" />
   </ItemGroup>
 </Project>
