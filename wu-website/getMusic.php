@@ -1,23 +1,28 @@
 <?php
 
-require_once('/mysqli_connect.php');
+require_once('\mysqli_connect.php');
 
-$musicQuery = "SELECT ";
+$artist = $_GET['artistName'];
 
-$response = @mysqli_query($DB_NAME, $musicQuery);
+$fileDirectory = 'http://localhost/sdw/uploadedMusic/';
 
-if($response){
+//$artist = 'K Will';
 
-while($row = mysqli_fetch_array($response)){
+$getMusic = mysqli_query($database_connection, "SELECT * FROM music WHERE artist_name = " . $artist);
 
+$json = json_encode(mysqli_fetch_assoc($getMusic));
+
+echo $json;
+
+//while($row = mysqli_fetch_assoc($getMusic)){
+
+//    foreach($row as $key => $value){
     
+//        print "$key: $value <br />";
 
-}
+//    }
     
-} else {
+//}
 
-    echo "Couldn't grab response from database.";
-
-}
 
 ?>

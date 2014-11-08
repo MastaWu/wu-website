@@ -1,8 +1,6 @@
 <?php
 
 if(!empty($_POST['submit'])){
-
-    echo "during";
     
     $songName_php = $_POST['songName'];
     $albumName_php = $_POST['albumName'];
@@ -19,7 +17,7 @@ if(!empty($_POST['submit'])){
         
         if(move_uploaded_file($source_file, $target_file)){
             
-            echo "It has been uploaded";
+            echo "Your file " . $musicFile_php ." has been uploaded";
             
         } else {
             
@@ -30,10 +28,8 @@ if(!empty($_POST['submit'])){
     }
     
     require_once('\mysqli_connect.php');
-
-    echo $songName_php . " " . $albumName_php . " " . $artistName_php;
     
-    $addMusicQuery = mysqli_query($database_connection, "INSERT INTO music (song_Name, music_Upload, album_Name, artist_Name) VALUES ('$songName_php', '$musicFile_php', '$albumName_php', '$artistName_php')");
+    $addMusicQuery = mysqli_query($database_connection, "INSERT INTO music (song_Name, music_Upload, album_Name, artist_Name, upvote, downvote) VALUES ('$songName_php', '$musicFile_php', '$albumName_php', '$artistName_php', 1, 1)");
 
 }
 
