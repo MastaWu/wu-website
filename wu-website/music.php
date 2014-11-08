@@ -1,6 +1,11 @@
-<html>
+<?php
 
-    <body>
+$title = "Home";
+
+include ("header.php");
+
+?>
+
 
         <form action="addMusic.php" method="post" enctype="multipart/form-data">
 
@@ -12,6 +17,8 @@
 
         </form>
 
-    </body>
+<?php
 
-</html>
+include ("footer.php");
+
+?>
