@@ -27,6 +27,7 @@
     <Compile Include="mysqli_connect.php" />
     <Compile Include="test.php" />
     <Compile Include="test2.php" />
+    <Compile Include="trending.php" />
     <Compile Include="upload.php" />
     <Compile Include="upvote.php" />
   </ItemGroup>

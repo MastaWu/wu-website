@@ -8,6 +8,7 @@ if(!empty($_POST['submit'])){
     $musicFile_php = $_FILES['musicFile']['name'];
     $target_file = 'uploadedMusic/' . basename($_FILES['musicFile']['name']);
     $source_file = $_FILES['musicFile']['tmp_name'];
+    $genreType_php = $_POST['genreType'];
     
     if(file_exists($target_file)){
         
@@ -35,8 +36,10 @@ if(!empty($_POST['submit'])){
         echo "Connected";
     }
     
-    $addMusicQuery = mysqli_query($database_connection, "INSERT INTO music (song_Name, music_Upload, album_Name, artist_Name, upvote, downvote) VALUES ('$songName_php', '$musicFile_php', '$albumName_php', '$artistName_php', 1, 1)");
+    $addMusicQuery = mysqli_query($database_connection, "INSERT INTO music (song_Name, music_Upload, album_Name, artist_Name, upvote, downvote, genre) VALUES ('$songName_php', '$musicFile_php', '$albumName_php', '$artistName_php', 1, 1, '$genreType_php')");
     
 }
+
+header('Location: music.php');
 
 ?>
