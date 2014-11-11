@@ -133,7 +133,7 @@
                             <tr style="font-size: 14px">
                                 <td><b>#</b></td>
                                 <td><b>Song Name</b></td>
-                                <td><b>Band Name</b></td>
+                                <td><b>Artist Name</b></td>
                                 <td><b>Genre</b></td>
                             </tr>
                             <tr>
