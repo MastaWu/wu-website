@@ -65,7 +65,7 @@
                 <div class="col-sm-6 col-sm-offset-4 col-md-6 col-md-offset-4 col-lg-6 col-lg-offset-4 logoStart margin-Top">
                 <h2 id="name">New Day Alarm</h2>
                 <img src="logo.png" class="logo"/>
-                <h2 id="slogan">Your day is never the same, <br />why should your songs be.</h2>
+                <h2 id="slogan">Your day is never the same, <br />why should your music.</h2>
                 </div>
             </div>
 
