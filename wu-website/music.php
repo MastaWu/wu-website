@@ -123,7 +123,7 @@
             <div class="trendingRow">
 
                 <div class="col-sm-6 col-sm-offset-3 col-md-6 col-md-offset-3 col-lg-6 col-lg-offset-3 uploadTopMargin" >
-                    <img src="s upload.png" id="sImg" style="display:block; margin:auto" />
+                    <img src="s trend.png" id="sImg" style="display:block; margin:auto" />
                     <br />
                     <div id="trend_div" style="display:block; margin:auto">
 
